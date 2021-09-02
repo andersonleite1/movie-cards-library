@@ -1,7 +1,7 @@
 # Projeto Movie Cards Library
 Esse projeto foi desenvolvido no módulo de front-end durante minha formação na [Trybe](https://www.betrybe.com/formacao-desenvolvimento-web) em Desenvolvimento Web.
 
-#### Habilidades que froram avaliadas
+### Habilidades que froram avaliadas
 
   - Saber a melhor forma para instalar um gerenciador de pacotes
   - Inicializar um projeto em **React**
@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido no módulo de front-end durante minha formação n
   - Utilizar **PropTypes** para garantir que uma prop é um array com elementos de um determinado tipo
 
 
-#### O que foi desenvolvido
+### O que foi desenvolvido
 
 Uma biblioteca de cartões de filmes utilizando React. A biblioteca possui um cabeçalho e uma lista de cartões. Cada cartão representa um filme e possui uma imagem, título, subtítulo, sinopse e avaliação. A ilustração do que foi desenvolvido segue na imagem abaixo.
 
