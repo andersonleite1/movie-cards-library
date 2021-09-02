@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido no módulo de front-end durante minha formação n
 
 ### O que foi desenvolvido
 
-Uma biblioteca de cartões de filmes utilizando React. A biblioteca possui um cabeçalho e uma lista de cartões. Cada cartão representa um filme e possui uma imagem, título, subtítulo, sinopse e avaliação. A ilustração do que foi desenvolvido segue na imagem abaixo.
+Uma biblioteca de cartões de filmes utilizando React. A biblioteca possui um cabeçalho e uma lista de cartões. Cada cartão representa um filme e possui uma imagem, título, subtítulo, sinopse e avaliação. A ilustração do que foi desenvolvido segue na imagem abaixo mas você também pode conferir o resultado [clicando aqui](https://movie-cards-library-mcl.vercel.app/).
 
 ![image](preview.png)
 
